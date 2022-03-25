@@ -1,4 +1,4 @@
-## Hi there! My name is Pavel! I'm front-end developer. 🦥
+## Hi there! My name is Pavel! I'm front-end developer.
 
 ### Contacts:
 
